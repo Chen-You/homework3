@@ -66,6 +66,7 @@ tree&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Compare with other method
+在這邊吾組所使用的other method為助教於課堂中所提及的"Inpainting"
 origin | mask | result
 <br/><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/1.jpg" width="200" height="200"/>
